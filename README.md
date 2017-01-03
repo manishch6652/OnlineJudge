@@ -1,2 +1,3 @@
 # OnlineJudge
- Online Judge (using PHP and MySQL) that compiles a computer program and evaluates its logical correctness by executing it on a set of predefined test cases.
+
+To use the Judge, clone the project.Place the folder in htdocs folder. Import the online_judge.sql. Use any of the username password mentioned in the usernames table. 
